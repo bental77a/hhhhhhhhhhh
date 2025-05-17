@@ -9,3 +9,5 @@ sqlparse>=0.4.4
 asgiref>=3.3.4
 Pillow>=10.0.0
 django-crispy-forms>=2.0
+
+https://github.com/ChrisArt302/CS50W-capstone
